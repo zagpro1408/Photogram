@@ -1,24 +1,13 @@
-# README
+# Let's Build: Instagram
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gems:
+* gem 'haml'
+* gem 'paperclip'
+* gem 'simple_form'
+* gem 'bootstrap-sass'
 
-Things you may want to cover:
+Contact me:
 
-* Ruby version
+* zagorsky28@gmail.com
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* https://vk.com/id9176212
